@@ -1,6 +1,6 @@
 # polihack-v20
 
-Project for PoliHack v20.
+Repository for PoliHack v20.
 
 ## Team
 - @Cosma06
